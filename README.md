@@ -3,6 +3,7 @@ This resource pack adds all of Twemoji, redrawn by hand as pixel art
 at 9x9 pixels, to the default font in Minecraft: Java Edition
 version 1.16 or later.
 
+![emoji.png](assets/twemoji/textures/font/emoji.png)
 
 ## Installation
 Please download the .zip file from the releases section, put it in your
