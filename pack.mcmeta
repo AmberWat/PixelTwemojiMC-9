@@ -2,6 +2,14 @@
   "pack": {
     "pack_format": 26,
     "supported_formats": [5, 26],
-    "description": "Pixel Perfect Twemoji (9x9)\nVersion 7 (Emoji Version 15.1)"
+    "description": "Pixel Perfect Twemoji (9x9)\nVersion 8 (Emoji Version 15.1)"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "symbol-chat",
+        "path": "symbol_tabs/(all|faces_people|nature_food|things|activities_transport_places|symbols|shapes|kaomoji|favorites)\\.json"
+      }
+    ]
   }
 }

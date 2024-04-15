@@ -1,0 +1,12 @@
+{
+    "icon": "\uD940\uDC09",
+    "order": 100,
+    "type": "kaomojis",
+    "symbols": [
+        {
+            "split": "line",
+            "id": "symbol-chat:kaomojis"
+        },
+        "symbol-chat:custom_kaomojis"
+    ]
+}

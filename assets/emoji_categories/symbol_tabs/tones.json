@@ -1,0 +1,11 @@
+{
+    "icon": "\uD940\uDC0B",
+    "order": 90,
+    "symbols": [
+        "emoji_categories:tone1",
+        "emoji_categories:tone2",
+        "emoji_categories:tone3",
+        "emoji_categories:tone4",
+        "emoji_categories:tone5"
+    ]
+}

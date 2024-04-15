@@ -25,6 +25,9 @@ by vanilla and will show up as multiple, separate characters. Sorry.
 See below for ways to develop around this.
 
 
+## Supported mods
+[Symbol Chat](https://modrinth.com/mod/symbol-chat) - Easy to use emoji and symbol picker
+
 ## Remapped characters (for developers)
 In order to have any support for emoji consisting of sequences they have been
 remapped to unused single characters. An index of these can be found in

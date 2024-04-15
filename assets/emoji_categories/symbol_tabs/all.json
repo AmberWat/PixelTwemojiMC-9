@@ -1,0 +1,15 @@
+{
+    "icon": "\uD940\uDC00",
+    "order": 0,
+    "search_bar": true,
+    "symbols": [
+        "emoji_categories:people",
+        "emoji_categories:nature",
+        "emoji_categories:food",
+        "emoji_categories:activity",
+        "emoji_categories:travel",
+        "emoji_categories:objects",
+        "emoji_categories:symbols",
+        "emoji_categories:flags"
+    ]
+}
