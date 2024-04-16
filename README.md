@@ -127,7 +127,7 @@ turn them into emoji with tooltips like this one:
 With reverse shortcodes, it could also detect emoji and
 emoji sequences and also give them tooltips like this one:
 ```json
-{"translate":"\ud83e\udd14","hoverEvent":{"action":"show_text","contents":{"translate":"%1851878757$s\ud83e\udd14"}}}
+{"translate":"\ud83e\udd14","hoverEvent":{"action":"show_text","contents":{"translate":"\u200c\ud83e\udd14"}}}
 ```
 
 
