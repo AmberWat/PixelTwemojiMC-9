@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 26,
     "supported_formats": [5, 26],
-    "description": "Pixel Perfect Twemoji (9x9)\nVersion 8 (Emoji Version 15.1)"
+    "description": "Pixel Perfect Twemoji (9x9)\nVersion 9 (Emoji Version 17.0)"
   },
   "filter": {
     "block": [

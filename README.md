@@ -5,6 +5,13 @@ version 1.16 or later.
 
 ![emoji.png](assets/twemoji/textures/font/emoji.png)
 
+## Emoji 16.0 / 17.0 additions
+Updated to Unicode Emoji 17.0 (171 new glyphs: 8 from 16.0, 163 from 17.0 - including the new
+ballet dancer, fight cloud, orca, trombone, treasure chest, landslide, hairy creature, distorted face,
+and the skin-tone variants of bunny-ears and wrestlers). These were pixelated automatically from
+[jdecked/twemoji](https://github.com/jdecked/twemoji) artwork (CC-BY 4.0) with the scripts in `tools/`,
+so they have not been hand-polished like the older glyphs.
+
 ## Installation
 Please download the .zip file from the releases section, put it in your
 resource packs folder and select it for use in-game.
